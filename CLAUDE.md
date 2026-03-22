@@ -3,7 +3,7 @@
 GitHub org: https://github.com/ai4brands-design
 Repo: https://github.com/ai4brands-design/claude-skills
 
-## Skills (758 celkem)
+## Skills (759 celkem)
 
 - 3d-web-experience
 - SPDD
@@ -133,6 +133,7 @@ Repo: https://github.com/ai4brands-design/claude-skills
 - claude-win11-speckit-update-skill
 - clean-code
 - clerk-auth
+- cli-anything
 - clickup-automation
 - close-automation
 - cloud-architect
